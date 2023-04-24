@@ -1,0 +1,1 @@
+#define WHITE 0xFFFF
